@@ -6,7 +6,7 @@ function semana() {
 
   //Los dias 
   if(dia === 4){   //Probando el dia jueves
-    l.textContent = "Probando";
+    l.textContent = "Jueves";
   }
   else{
     l.textContent ="Salida almuerzo:";
